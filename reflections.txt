@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+What new skills have you learned?
+- How to replicate a mock to HTML elements.
+- Making HTML Element Tree
+- Using of paragraph, em, cite, strong, i, sup, strike, hr, figure and many other elements
+
+What has been easy?
+The videos and quiz explanation is easy to understand and follow.
+
+What has been difficult?
+Nothing as such. Looking forward for more and more challenging assignments.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+Yes. I have been using the suggested Mozilla's HTMl element references to solve my quiz and assignments.
